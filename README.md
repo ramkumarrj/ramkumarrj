@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi! Nice to meet you
+  
+![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ramkumarrj&color=red)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 
-<!--
-**ramkumarrj/ramkumarrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+<p align="justify">Professional Linux System Administrator with 2+ years of experience and now working as a DevOps Engineer, targeted to obtain a challenging role to put my skills into action. Had well-experienced with handling servers, routers in multiple platforms. Intended to work with up-to date technologies and looking for a satisfying work environment.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<a href="https://www.linkedin.com/in/ramkumarrj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:rrkumar1002@gmail.com?subject=Refered%20From%20Git%20Profile"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
